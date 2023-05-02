@@ -1,0 +1,5 @@
+2023-04-19 22:01:16 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2023-04-19 22:01:22 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 9336, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-04-19 22:01:22 *CRITICAL*   Injecting image 'C:\Users\bogda\OneDrive\Desktop\based-aim\build\based.dll'
+2023-04-19 22:02:24 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 9336, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-04-19 22:02:24 *CRITICAL*   Injecting image 'C:\Users\bogda\OneDrive\Desktop\based-aim\build\based.dll'
